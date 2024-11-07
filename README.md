@@ -8,7 +8,7 @@
   Criar um server com NodeJs.
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias:
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
