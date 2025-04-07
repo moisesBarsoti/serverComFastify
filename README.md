@@ -1,17 +1,37 @@
-<h1 align="center"> Atividade da Rockeseat </h1>
-<p>Docente: Diego Fernandes</p>
-<p>Plataforma: Youtube</p>
-<p>Projeto: Back-end</p>
+# 🚀 **Atividade Rocketseat**  
+**Desenvolvimento de um projeto de back-end proposto pela Rocketseat.**
 
-<h2>📝 Desafio:</h2>
-<p>
-  Criar um server com NodeJs.
-</p>
+---
 
-## 🚀 Tecnologias:
+## 📝 **Docente**  
+- *Diego Fernandes*
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🌐 **Plataforma**  
+- *YouTube*
 
-- NodeJs
-- Fastify
-- Git e Github
+## 💻 **Projeto**  
+- *Back-end: Criação de um servidor utilizando Node.js.*
+
+---
+
+## 🏆 **Desafio**  
+O objetivo é implementar um servidor utilizando **Node.js**, explorando ferramentas modernas e boas práticas de desenvolvimento.
+
+---
+
+## 🛠️ **Tecnologias**  
+
+Este projeto foi desenvolvido utilizando:
+
+- **Node.js**
+- **Fastify**
+- **Git e GitHub**
+
+---
+
+## 📂 **Como executar o projeto**  
+
+### **Pré-requisitos**
+- Certifique-se de ter o **Node.js** instalado na máquina.
+- Instale o **npm** ou **yarn** para gerenciar dependências.
+   
